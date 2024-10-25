@@ -1,11 +1,30 @@
-Here, you’ll find public projects focused on:
+### Welcome to my GitHub!
+Here, you’ll find some of my projects on:
 
-- Neural Network Compression
-- Quantization- and Explainability-Aware Training
-- Code linked to papers, challenges, and demos
+- 🔬 **Neural Network Compression (NNC)**  
+  Preprocessing (parameter / precision reduction), encoding, decoding, and transmission
 
-My main interests lie in Neural Codecs, Neural Data Compression, Explainable AI (XAI), and Information Theory.
 
-Beyond my work, you might discover tools related to my record collection, music organization, and synthesizers.
+- 🔢 **Quantization- and Explainability-Aware NN Training**  
+  Using XAI and information theory within quantization-aware training to build efficient 2-4 bit neural networks
 
-#### [www.dbecking.com](https://dbecking.com)
+
+- 📑 **Research Papers, Challenges, and Demos**  
+  Direct links to code, resources, and contributions 
+
+
+- 🔜 **Future work**
+  - Extensions for transformer-based models
+  - Neural codecs and general-purpose compressors with language models
+
+### Research Interests
+
+I've long been fascinated by neurophysiological processes and stimulus processing in the human brain. 
+Translating these concepts into artificial neurons and synapses, alongside foundational information theory principles,
+forms a research area that continues to inspire me.
+
+
+### Personal Projects
+Beyond my work, you might find tools related to my record collection 💽, playlist organization 📻, and synthesizers 🎹.
+
+### [www.dbecking.com](https://dbecking.com)
