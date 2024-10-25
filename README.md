@@ -21,7 +21,7 @@ Here, you’ll find some of my projects on:
 
 I've long been fascinated by neurophysiological processes and stimulus processing in the human brain. 
 Translating these concepts into artificial neurons and synapses, alongside foundational information theory principles,
-forms a research area that continues to inspire me.
+forms a research area that continues inspiring me.
 
 
 ### Personal Projects
