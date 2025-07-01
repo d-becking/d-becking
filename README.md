@@ -23,8 +23,4 @@ I've long been fascinated by neurophysiological processes and stimulus processin
 Translating these concepts into artificial neurons and synapses, alongside foundational information theory principles,
 forms a research area that continues inspiring me.
 
-
-### Personal Projects
-Beyond my work, you might find tools related to my record collection 💽, playlist organization 📻, and synthesizers 🎹.
-
 ### [www.dbecking.com](https://dbecking.com)
